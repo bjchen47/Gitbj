@@ -1,0 +1,2 @@
+# Gitbj
+Python learing
